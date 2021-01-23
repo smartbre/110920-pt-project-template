@@ -7,12 +7,11 @@
 This project analyzes profitable movies released between 2010 and 2018 in order to make recommendations to Microsoft as it enters the movie production industry. This analysis uses data from multiple datasets and only contains records of complete and relevant data. It also uses the additional data that was calculated using the complete dataset. The data analysis shows common trends among movies that share at least one of the following genres: Sci-Fi, Animation, and Adventure. Not only were movies of these types more profitable than other combinations of genres, they also generated about 60% of their revenue internationally. Animation movies also over the least competition of the three, ranking 12th out of 22 genres produced (Sci-Fi and Adventure rank 14th and 18th respectively). Given their top performance, it may be helpful for Microsoft to consider focusing on these genres and markets as they enter the movie production industry.
 
 ## Business Problem
-![graph0](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxTiTnGeUsWOEwsGoG4%2Fgiphy.gif&f=1&nofb=1)
+![pic1](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxTiTnGeUsWOEwsGoG4%2Fgiphy.gif&f=1&nofb=1)
 
 This data analysis aims to answer questions about the budget, genre types, and markets of profitable movies released between 2010-2018. Focusing on the profitable movies may assist Microsoft in initializing its entry into the movie production industry.
 
 ## Data
-![graph0](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxTiTnGeUsWOEwsGoG4%2Fgiphy.gif&f=1&nofb=1)
 This analysis focuses on top performing movies from 2010-2018. Top performing movies have the highest average ratings and profits. This data uses the public online movie datasets from IMDb, The-Numbers.com, and Box Office Mojo. Each data set provides information essential to answering the questions in this data analysis. Such categories include information on movie titles, genres, lengths, ratings, release year, studios, budgets, profits, and much mor
 
 ## Methods
